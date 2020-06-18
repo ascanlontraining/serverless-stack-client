@@ -1,5 +1,5 @@
 const dev = {
-  STRIPE_KEY: "pk_test_51GqyuADaaBQ1LA5TrwcR1fYAIOG5OVl0Q5PlhJD4Ah8jcveWZFskKKiw2dWnotQbIdwHMrASTkKeVeXb0tJcVx5H00vMnFngAL",
+  STRIPE_KEY: pk_test_51GqyuADaaBQ1LA5TrwcR1fYAIOG5OVl0Q5PlhJD4Ah8jcveWZFskKKiw2dWnotQbIdwHMrASTkKeVeXb0tJcVx5H00vMnFngAL,
   s3: {
     REGION: "eu-west-2",
     BUCKET: "notes-app-2-api-dev-serverlessdeploymentbucket-oiyhmll6oo71"
